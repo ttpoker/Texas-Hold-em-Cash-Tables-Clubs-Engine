@@ -61,11 +61,11 @@ Texas Hold'em Cash Tables + Clubs 源码引擎，帮助你快速搭建：
 # 📞 联系方式（正规化）
 
 - **合作专用邮箱**：【libaishi62@gmail.com】
-- **Telegram**：@gameluck_kefu（主用）
-- **WhatsApp**：852-55184890
+- **Telegram**：@godispokerai（主用）
 
 
-> 📌 **首次联系请备注**：合作模式（代理/源码/联营）+ 所在地区
+
+> 📌 **首次联系请备注**：合作模式（代理/授权/联营）+ 所在地区
 
 ---
 
