@@ -79,9 +79,6 @@ This repo is a Texas Hold'em Cash Tables + Clubs engine for building:
 | **联合运营**<br>Joint Operation | 双方共同投入资金与资源，按出资比例分成 | Joint capital + operation, profit sharing by stake | 有资金且希望深度绑定者<br>Investors / long‑term partners |
 | **源码授权**<br>Source Code License | 一次性获取全端源码，可二次开发，自主运营 | One‑time source code license, extensible & customizable | 有技术团队、想深度自研者<br>Teams with strong dev capacity |
 
-> ✅ **我方主推模式**：  
-> 【请填写：主推产品授权 / 联合运营 / 区域代理 / 源码二开】  
-> Main model we prefer: ___________________________
 
 ---
 
@@ -91,52 +88,24 @@ This repo is a Texas Hold'em Cash Tables + Clubs engine for building:
 - 【示例：  
   - 拥有东南亚 / 拉美 / 东欧等地区棋牌 / 流量资源  
   - 有技术团队可进行二次开发（可选）  
-  - 启动资金不低于 XX 万】
+  - 启动资金不低于 8 万】
 
 - [Example:  
   - Have traffic / user base in Southeast Asia / LATAM / Eastern Europe  
   - Have dev team for further customization (optional)  
-  - Startup capital ≥ XX USD]
+  - Startup capital ≥ 1.2 USD]
 
-### 收益模型示例 / Revenue model examples
-- **产品授权 Product License**  
-  - 一次性费用：【XX 万】  
-  - 可选：后续每年 X% 技术服务费  
-- **区域代理 Regional Agent**  
-  - 首月流水返点：X%  
-  - 次月起：X% + 月度达标奖金  
-- **联合运营 Joint Operation**  
-  - 按出资比例占股，分红周期：季度/月  
-- **源码授权 Source Code License**  
-  - 一次性获取全端源码，可长期自主运营与扩展  
+## 💰 收益模型 / Revenue Model
 
----
-
-## 🔐 为什么选择我们（可信度证明）
-
-| 证明类型 / Proof type | 查看方式 / How to verify |
+| 模式 | 费用说明 |
 | :--- | :--- |
-| **在线试玩**<br>Web Demo | [点击进入 WEB 试玩]（请填写真实链接） |
-| **功能演示视频**<br>Demo Video | 联系我们，可申请观看功能演示视频 / Feature demo video upon request |
-| **真实运营案例**<br>Case Studies | 可在 NDA 后展示现有运营平台与数据（如日活、流水等） |
-| **技术文档**<br>Documentation | 源码与完整文档将在签署 NDA 后提供 |
+| 产品授权 | 一次性费用 **面议** + 每年技术服务费 **15%**（可选） |
+| 源码授权 | 一次性费用 **面议** |
+| 区域代理 | 流水返点 **30%–50%** |
+| 联合运营 | 按出资比例，季度分红 |
+
 
 ---
-
-## 📞 联系方式（正规化）
-
-- **合作专用邮箱 / Business Email**  
-  - libaishi62@gmail.com`  
-- **Telegram / 电报**  
-  - @lovepokers
-
-> 📌 **首次联系请备注**：  
-> 1）合作模式：代理 / 产品授权 / 联合运营 / 源码二开  
-> 2）所在地区（国家/地区/语言需求）  
-
-> 📌 **First message reminder**:  
-> 1) Partnership model: Agent / Product License / Joint Operation / Source Code  
-> 2) Your location & target market  
 
 ---
 
@@ -148,15 +117,10 @@ This repo is a Texas Hold'em Cash Tables + Clubs engine for building:
 **源码及完整文档将在签署 NDA（保密协议）后提供。**  
 **Full source code and documentation will be provided after signing a NDA (Non‑Disclosure Agreement).**
 
-**下一步流程 Next Steps**：  
-1️⃣ 通过上述方式联系我们（邮箱 / Telegram）  
-2️⃣ 双方签署 NDA  
-3️⃣ 提供 Demo 试玩账号 + 合作方案 PowerPoint（PPT）  
-4️⃣ 预约技术演示与答疑会议  
 
 ---
 
-## 一、项目亮点（Project Highlights）
+## 项目亮点（Project Highlights）
 
 - **现金桌系统 Cash Tables**  
   - 支持 6~9 人现金桌，自动配桌、自动结算  
@@ -190,16 +154,10 @@ This repo is a Texas Hold'em Cash Tables + Clubs engine for building:
 
 ---
 
-## 二、技术架构（Tech Stack, 可按实际修改）
-
-- 服务端 / **Backend**：`C++ / Java
-- 客户端 / **Client**：支持 Web（H5）、App（Android / iOS）、小程序等多端接入  
-- 通信协议 / **Protocol**：WebSocket / TCP / HTTP API  
-- 依赖数据库 / **Database**：`MySQL / Redis / PostgreSQL`（依实际填写）  
 
 ---
 
-## 三、功能模块说明（Function Modules）
+## 功能模块说明（Function Modules）
 
 - `cash-tables/`：现金桌逻辑、牌局状态机、底池管理、自动结算  
 - `clubs/`：俱乐部创建、成员管理、俱乐部房间、俱乐部赛事  
@@ -209,7 +167,7 @@ This repo is a Texas Hold'em Cash Tables + Clubs engine for building:
 
 ---
 
-## 四、使用示例（快速上手 / Quick Start）
+## 使用示例（快速上手 / Quick Start）
 
 1. **克隆仓库 / Clone repo**  
    ```bash
@@ -243,7 +201,7 @@ This repo is a Texas Hold'em Cash Tables + Clubs engine for building:
 
 ---
 
-## 五、对外合作说明（可直接作为“合作帖”）
+
 
 ### 项目定位（Project Positioning）
 
@@ -276,16 +234,24 @@ Cooperation models:
 - Product + On‑site deployment + long‑term maintenance  
 - Source Code License + one‑time payment  
 
-### 合作条件（Conditions）
 
-- 乙方需具备：  
-  - 基本的服务器/运维能力  
-  - 有真实用户/流量（本地社群、社交、平台等）  
-  - 在合法合规环境下运营，不用于高风险刷返佣或违法行为  
 
----
+## 📞 联系方式
 
-### 产品截图（Product Screenshots）
+- **合作专用邮箱 / Business Email**  
+  - libaishi62@gmail.com`  
+- **Telegram / 电报**  
+  - @lovepokers
+
+> 📌 **首次联系请备注**：  
+> 1）合作模式：代理 / 产品授权 / 联合运营 / 源码二开  
+> 2）所在地区（国家/地区/语言需求）  
+
+> 📌 **First message reminder**:  
+> 1) Partnership model: Agent / Product License / Joint Operation / Source Code  
+> 2) Your location & target market  
+
+## 📸 产品截图 / Product Screenshots
 
 <img width="625" height="1091" alt="a6fb5dd4440f66ca8ea6152e890aae6c" src="https://github.com/user-attachments/assets/49cdeac1-2108-4f58-8546-8396b1df4a5c" />
 <img width="601" height="1080" alt="804b3f3deed119b92d30dc3f46597b20" src="https://github.com/user-attachments/assets/d00e9838-6509-4b3c-b9af-9a1dca5288f0" />
