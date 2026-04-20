@@ -126,9 +126,9 @@ This repo is a Texas Hold'em Cash Tables + Clubs engine for building:
 ## 📞 联系方式（正规化）
 
 - **合作专用邮箱 / Business Email**  
-  - `libaishi62@gmail.com`  
+  - libaishi62@gmail.com`  
 - **Telegram / 电报**  
-  - `@godispokerai
+  - @godispokerai
 
 > 📌 **首次联系请备注**：  
 > 1）合作模式：代理 / 产品授权 / 联合运营 / 源码二开  
