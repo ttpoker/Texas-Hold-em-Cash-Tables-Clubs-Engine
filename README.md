@@ -46,11 +46,11 @@
 
 | 模块 | 技术 |
 | :--- | :--- |
-| 服务端 / Backend | C++ / Java |
+| 服务端 / Backend | C++  |
 | 通信协议 / Protocol | WebSocket / TCP / HTTP API |
 | 数据库 / Database | MySQL / Redis |
 | 客户端 / Client | Unity (iOS / Android / H5 / 小程序) |
-| 管理后台 / Admin | Vue.js + Element UI |
+| 管理后台 / Admin | JAVA |
 
 ---
 
