@@ -29,7 +29,7 @@
 | 独立俱乐部后台、成员管理、代理分润系统 | Independent club backend, member management, agent commission |
 | 俱乐部大厅：官方赛、免费赛、挑战赛 | Club lobbies with official, freeroll & challenge tournaments |
 | 现金场比赛场：免费赛、初级赛、高级赛、大师赛、赏金猎人赛 | Cash game MTTs: freerolls, entry‑level, advanced, master, bounty |
-| 全球语言支持（15+种语言） | Multi‑language support (15+ languages) |
+| 全球语言支持（25+种语言） | Multi‑language support (25+ languages) |
 | 全球支付与提现系统 + USDT | Multi‑country payment gateways + USDT |
 | 全端源码（Web/H5/iOS/Android/小程序 + 后端 + 管理后台） | Full‑stack source code |
 | 防作弊系统框架 + 24小时运维支持（可选） | Anti‑cheat framework + 24/7 ops (optional) |
